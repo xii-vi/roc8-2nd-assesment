@@ -1,0 +1,71 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Black Tee",
+        "imageSrc": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-01.jpg",
+        "imageAlt": "Front of men's Basic Tee in black.",
+        "price": 250,
+        "brand": "Nike",
+        "idealFor": "men",
+        "size": ["S", "M", "L", "XL"],
+        "quantity": 1
+      },
+      {
+        "id": 2,
+        "name": "Blue Tee",
+        "imageSrc": "https://rukminim1.flixcart.com/image/880/1056/l1fc0i80/top/w/5/j/s-mwss22top053b-metronaut-original-imagczwskyvbkzfq.jpeg?q=50",
+        "imageAlt": "Front of women's Basic Tee in blue.",
+        "price": 750,
+        "brand": "Drew",
+        "idealFor": "women",
+        "size": ["S", "M"],
+        "quantity": 1
+      },
+      {
+        "id": 3,
+        "name": "Aspen White Tee",
+        "imageSrc": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-02.jpg",
+        "imageAlt": "Front of women's Basic Tee in Aspen White.",
+        "price": 500,
+        "brand": "Adidas",
+        "idealFor": "men",
+        "size": ["S", "L", "XL"],
+        "quantity": 1
+      },
+      {
+        "id": 4,
+        "name": "Dot Print Tee",
+        "imageSrc": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-04.jpg",
+        "imageAlt": "Front of Women's Dot Print Tee.",
+        "price": 850,
+        "brand": "Drew",
+        "idealFor": "women",
+        "size": ["XS", "S"],
+        "quantity": 1
+      },
+      {
+        "id": 5,
+        "name": "Charcoal Tee",
+        "imageSrc": "https://tailwindui.com/img/ecommerce-images/product-page-01-related-product-03.jpg",
+        "imageAlt": "Front of men's Basic Tee in charcoal.",
+        "price": 450,
+        "brand": "Nike",
+        "idealFor": "men",
+        "size": ["S", "M", "XL"],
+        "quantity": 1
+      },
+      {
+        "id": 6,
+        "name": "Orange Tee",
+        "imageSrc": "https://rukminim1.flixcart.com/image/603/724/l23mhzk0/top/g/i/n/s-mwss22top053c-metronaut-original-imagdgt6yvnvamc8.jpeg?q=50",
+        "imageAlt": "Front of women's Basic Tee in Orange.",
+        "price": 950,
+        "brand": "Nike",
+        "idealFor": "women",
+        "size": ["XS", "M"],
+        "quantity": 1
+      }
+    ]
+  }
+  
